@@ -3,7 +3,7 @@
 	Soluzione parallelizzata del problema N-Body usando MPI <br>
 	<h5>
 		Tiziano Citro <br>
-		t.citro5@studenti.unisa.it
+		t.citro5@studenti.unisa.it <br>
         Repository GitHub: https://github.com/TizianoCitro/N-Body
 	</h5>
 </header>
