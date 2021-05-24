@@ -256,13 +256,4 @@ With 30 processors, 32000 bodies and 300 iterations the execution time is 411.00
 
 With 31 processors, 32000 bodies and 300 iterations the execution time is 405.00 seconds
 
-With 32 processors, 32000 bodies and 300 iterations the execution time is 407.00 secondsWith 5 processors, 12 bodies and 3 iterations the execution time is 0.00 seconds
-
-With 6 processors, 12 bodies and 3 iterations the execution time is 0.00 seconds
-
-With 1 processors, 12 bodies and 3 iterations the execution time is 0.00 seconds
-
-With 1 processors, 12 bodies and 3 iterations the execution time is 0.00 seconds
-
-With 6 processors, 12 bodies and 3 iterations the execution time is 0.00 seconds
-
+With 32 processors, 32000 bodies and 300 iterations the execution time is 407.00 seconds
