@@ -20,7 +20,7 @@ Il problema N-Body è uno dei problemi più fertili della fisica matematica, aff
 
 L'obiettivo del problema consiste nel trovare le posizioni e le velocità di un insieme di particelle che interagiscono nel corso di un certo intervallo di tempo. Ad esempio, un astrofisico potrebbe voler conoscere le posizioni e le velocità di un gruppo di stelle oppure un chimico potrebbe voler conoscere le posizioni e le velocità di un insieme di molecole o atomi.
 
-Una soluzione al problema N-Body è un programma che trova la soluzione simulando il comportamento delle particelle. L'input al problema è costituito dalla posizione e dalla velocità di ciascuna particella all'inizio della simulazione e l'output è in genere costituito dalla posizione e dalla velocità di ciascuna particella in una sequenza di tempi specificati dall'utente, o semplicemente dalla posizione e dallla velocità di ciascuna particella al termine di un tempo specificato dall'utente.
+Una soluzione al problema N-Body è un programma che trova la soluzione simulando il comportamento delle particelle. L'input al problema è costituito dalla posizione e dalla velocità di ciascuna particella all'inizio della simulazione e l'output è in genere costituito dalla posizione e dalla velocità di ciascuna particella in una sequenza di tempi specificati dall'utente, o semplicemente dalla posizione e dalla velocità di ciascuna particella al termine di un tempo specificato dall'utente.
 
 Risulta importante sottolineare che, indipendentemente dal numero di processori, il programma dovrà fornire lo stesso output a parità di input.
 
