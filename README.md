@@ -105,7 +105,7 @@ void buildBodiesPerProcessAndDispls(int numberOfBodies, int numberOfTasks, int *
 
     for (int process = MASTER; process < numberOfTasks; process++) {
         if (rest > BODY_NO_DIFFERENCE) {
-            bodiesPerProcess[process] = bodiesPerProcess[process] = bodiesDifference + 1;
+            bodiesPerProcess[process] = bodiesDifference + 1;
             rest--;
         } else bodiesPerProcess[process] = bodiesDifference;
 
